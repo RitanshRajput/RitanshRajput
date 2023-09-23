@@ -1,4 +1,4 @@
-- 😉 Hi, I’m Ritansh Singh Rajput
+- 😉 Hi, I’m Ritansh Singh 
 - 👀 I’m interested in Learning New Technology, Watching Anime, and Exploring New Places
 - 🌱 I’m currently learning MERN STACK DEVELOPMENT and will Move to DevOps as Well
 - 💞️ I’m looking to collaborate on Any Open Source Projects as well as personal projects
