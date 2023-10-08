@@ -9,4 +9,46 @@
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=flat&logo=chakraui&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=flat&logo=babel&logoColor=black)
 
+## I code with
+
+<a href="https://c.org" target="_blank">
+  <img align="left" title="Typescript" alt="Typescript" width="40px" src="./assets/typescript-logo.svg" />
+</a>
+
+<a href="https://pt-br.reactjs.org" target="_blank">
+ <img align="left" title="React and React Native" alt="React and React Native" width="40px" src="./assets/react-logo.svg" />
+</a>
+
+<a href="https://tailwindcss.com" target="_blank">
+ <img align="left" title="Tailwind Css" alt="Tailwind Css" width="40px" src="./assets/tailwind-logo.svg" />
+</a>
+
+<a href="https://nextjs.org" target="_blank">
+  <img align="left" title="Next Js" alt="Next Js" width="40px" src="./assets/next-logo.svg" />
+</a>
+
+<a href="https://nestjs.com" target="_blank">
+  <img align="left" title="Nest Js" alt="Nest Js" width="40px" src="./assets/nest-logo.svg" />
+</a>
+
+<a href="https://go.dev" target="_blank">
+  <img align="left" title="Go Lang" alt="Go Lang" width="40px" src="./assets/golang-logo.svg" />
+</a>
+
+<a href="https://graphql.org" target="_blank">
+  <img align="left" title="GraphQL" alt="GraphQL" width="40px" src="./assets/graphql-logo.svg" />
+</a>
+
+<a href="https://jestjs.io/pt-BR/" target="_blank">
+  <img align="left" title="Jest" alt="Jest" width="40px" src="./assets/jest-logo.svg" />
+</a>
+
+<a href="https://www.cypress.io" target="_blank">
+  <img align="left" title="Cypress" alt="Jest" width="40px" src="./assets/cypress-logo.svg" />
+</a>
+
+<a href="https://storybook.js.org" target="_blank">
+  <img align="left" title="Storybook" alt="Storybook" width="40px" src="./assets/storybook-logo.svg" />
+</a>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
