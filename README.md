@@ -1,12 +1,14 @@
-- 😉 Hi, I’m Ritansh Singh Rajput
-- 👀 I’m interested in Learning New Technology, Watching Anime, and Exploring New Places
+<h4 align="left">About Me :</h4>
+
+- 😉 Yo, I’m Ritansh Singh Rajput
+- 👀 I’m interested in Learning New Tools And Tech, Watching Anime, Exploring New Places and Solving DSA
 - 🌱 I’m currently learning frontend development and moving towards Backend as well
 - 💞️ I’m looking to collaborate on Any Open Source Projects as well as personal projects
 - 📫 How to reach me
 -  Linkedin : https://www.linkedin.com/in/ritansh-rajput-3a502521b
 -  Gmail : ritanshrajput69@gmail.com
 
-##I Work With :
+<h4 align="left">I work With :</h4>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
