@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on Any Open Source Projects as well as personal projects
 - 📫 How to reach me
 -  Linkedin : https://www.linkedin.com/in/ritansh-rajput-3a502521b
--  Gmail : ritanshrajput69@gmail.com
+-  Gmail : ritanshrajput21@gmail.com
 
 <h4 align="left">I work With :</h4>
 <div align="left">
