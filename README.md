@@ -1,12 +1,13 @@
-<h4 align="left">About Me :</h4>
+### 🫡About Me :
 
 - 😉 Yo, I’m Ritansh Singh Rajput
 - 👀 I’m interested in Learning New Tools And Tech, Watching Anime, Exploring New Places and Solving DSA
 - 🌱 I’m currently learning frontend development and moving towards Backend as well
 - 💞️ I’m looking to collaborate on Any Open Source Projects as well as personal projects
-- 📫 How to reach me
--  Linkedin : https://www.linkedin.com/in/ritansh-rajput-3a502521b
--  Gmail : ritanshrajput21@gmail.com
+### 📫 How to reach me
+- *Linkedin : https://www.linkedin.com/in/ritansh-rajput-3a502521b*
+- *Gmail : ritanshrajput21@gmail.com*
+- *Instagram : https://www.instagram.com/damndudedd/*
 
 <h4 align="left">I work With :</h4>
 <div align="left">
