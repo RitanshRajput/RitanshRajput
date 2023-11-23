@@ -4,6 +4,7 @@
 - 👀 I’m interested in Learning New Tools And Tech, Watching Anime, Exploring New Places and Solving DSA
 - 🌱 I’m currently learning frontend development and moving towards Backend as well
 - 💞️ I’m looking to collaborate on Any Open Source Projects as well as personal projects
+- 📄 [Wanna Know me more check my Resume](https://drive.google.com/file/d/1qSHuT0S-IOi25qxipRz40HxPkerpFDV-/view?usp=sharing)
 ### 📫 How to reach me
 - *Linkedin : https://www.linkedin.com/in/ritansh-rajput-3a502521b*
 - *Gmail : ritanshrajput21@gmail.com*
