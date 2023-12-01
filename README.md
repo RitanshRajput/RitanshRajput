@@ -1,8 +1,8 @@
 ### 🫡About Me :
 
 - 😉 Yo, I’m Ritansh Singh Rajput
-- 👀 I’m interested in Learning New Tools And Tech, Watching Anime, Exploring New Places and Solving DSA
-- 🌱 I’m currently learning frontend development and moving towards Backend as well
+- 👀 I’m interested in FullStack Development, Watching Anime, Exploring New Places and Solving DSA
+- 🌱 I’m currently learning MERN Stack with plans to delve DevOps and Cloud as well
 - 💞️ I’m looking to collaborate on Any Open Source Projects as well as personal projects
 - 📝 Check My Resume [Resume Link](https://drive.google.com/file/d/19Li3oTlfoOwxQ_EPOrTfapWpfxqCoX_o/view?usp=sharing)
 ### 📫 How to reach me
