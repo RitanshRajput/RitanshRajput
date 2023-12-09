@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on Any Open Source Projects as well as personal projects
 - 📝 Check My Resume [Resume Link](https://drive.google.com/file/d/19Li3oTlfoOwxQ_EPOrTfapWpfxqCoX_o/view?usp=sharing)
 ### 📫 How to reach me
-- *Linkedin : linkedin.com/in/ritansh-rajput*
+- *Linkedin : https://www.linkedin.com/in/ritansh-rajput*
 - *Gmail : ritanshrajput21@gmail.com*
 - *Instagram : https://www.instagram.com/damndudedd/*
 
