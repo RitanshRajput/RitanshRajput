@@ -4,7 +4,7 @@
 - 👀 I’m interested in FullStack Development, Watching Anime, Exploring New Places and Solving DSA
 - 🌱 I’m currently learning MERN Stack with plans to delve DevOps and Cloud as well
 - 💞️ I’m looking to collaborate on Any Open Source Projects as well as personal projects
-- 📝 Check My Resume [Resume Link](https://drive.google.com/file/d/1uvL8sq2iSHYxNjqsdP-LdKRnWHojkH4m/view?usp=sharing)
+- 📝 Check My Resume [Resume Link](https://drive.google.com/file/d/1HzR7kkUcKSjAhZl7vfhRGwPCRtVWvXAW/view?usp=sharing)
 ### 📫 How to reach me
 - *Linkedin : https://www.linkedin.com/in/ritansh-rajput*
 - *Gmail : ritanshrajput21@gmail.com*
