@@ -8,6 +8,7 @@
 ### 📫 How to reach me
 - *Linkedin : https://www.linkedin.com/in/ritansh-rajput*
 - *Gmail : ritanshrajput21@gmail.com*
+- *Vercel : https://vercel.com/ritanshrajputs-projects*
 - *Instagram : https://www.instagram.com/damndudedd/*
 
 <h4 align="left">I work With :</h4>
