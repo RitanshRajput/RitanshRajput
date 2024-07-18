@@ -1,5 +1,5 @@
 ### 🫡About Me :
-- 😉 Yo, I’m Ritansh Singh Rajput
+- 😉 Yo, I’m Ritansh Singh Rajput 
 - 👀 I’m interested in FullStack Development, Watching Anime, Exploring New Places and Solving DSA.
 - 🌱 I’m currently Mastering Full-Stack Development with plans to delve DevOps and AI as well.
 - 💞️ I’m looking to collaborate on Any Open Source Projects as well as personal projects.
