@@ -10,6 +10,7 @@
 - *Gmail : ritanshrajput21@gmail.com*
 - *Vercel : https://vercel.com/ritanshrajputs-projects*
 - *Instagram : https://www.instagram.com/damndudedd/*
+- *Leetcode : https://leetcode.com/u/RitanshRajput/*
 
 <h4 align="left">I work With :</h4>
 <div align="left">
