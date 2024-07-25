@@ -3,7 +3,7 @@
 - 👀 I’m interested in FullStack Development, Watching Anime, Exploring New Places and Solving DSA.
 - 🌱 I’m currently Mastering Full-Stack Development with plans to delve DevOps and AI as well.
 - 💞️ I’m looking to collaborate on Any Open Source Projects as well as personal projects.
-- 📝 Check My Resume [Resume Link](https://drive.google.com/file/d/1pKhTVzKAthS--CWUKMsbbW7Q8wQjgCCO/view?usp=sharing)
+- 📝 Check My Resume [Resume Link](https://drive.google.com/file/d/108AbI7LtVVUE2DW2Z-dwA7IBfzogWV-h/view?usp=drive_link)
   
 ### 📫 How to reach me
 - *Linkedin : https://www.linkedin.com/in/ritansh-rajput*
