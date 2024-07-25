@@ -9,7 +9,7 @@
 - *Linkedin : https://www.linkedin.com/in/ritansh-rajput*
 - *Gmail : ritanshrajput21@gmail.com*
 - *Vercel : https://vercel.com/ritanshrajputs-projects*
-- *Instagram : https://www.instagram.com/damndudedd/*
+- *Instagram : https://www.instagram.com/mr.terminall/*
 - *Leetcode : https://leetcode.com/u/RitanshRajput/*
 
 <h4 align="left">I work With :</h4>
