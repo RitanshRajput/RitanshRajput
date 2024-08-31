@@ -1,16 +1,17 @@
 ### 🫡About Me :
-- 😉 Yo, I’m Ritansh Singh Rajput 
+- 😉 Yo, I’m Ritansh
 - 👀 I’m interested in FullStack Development, Watching Anime, Exploring New Places and Solving DSA.
 - 🌱 I’m currently Mastering Full-Stack Development with plans to delve DevOps and AI as well.
 - 💞️ I’m looking to collaborate on Any Open Source Projects as well as personal projects.
 - 📝 Check My Resume [Resume Link](https://drive.google.com/file/d/1Y38MFx5XFXi5zY-JiOvCck07X5VMWIFd/view?usp=drive_link)
   
 ### 📫 How to reach me
-- *Linkedin : https://www.linkedin.com/in/ritansh-rajput*
 - *Gmail : ritanshrajput21@gmail.com*
-- *Vercel : https://vercel.com/ritanshrajputs-projects*
-- *Instagram : https://www.instagram.com/mr.terminall/*
-- *Leetcode : https://leetcode.com/u/RitanshRajput/*
+- *Linkedin  : [Check Here](https://www.linkedin.com/in/ritansh-rajput)*
+- *Portfolio : [Check Here](https://ritansh-personal-portfolio-nextjs.netlify.app)*
+- *Live Projects   : [Check Here](https://vercel.com/ritanshrajputs-projects)*
+- *Instagram : [Check Here](https://www.instagram.com/vscode_withme/)*
+- *Leetcode  : [Check Here]( https://leetcode.com/u/RitanshRajput/)*
 
 <h4 align="left">I work With :</h4>
 <div align="left">
