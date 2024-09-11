@@ -9,7 +9,7 @@
 - *Gmail : ritanshrajput21@gmail.com*
 - *Linkedin  : [Check Here](https://www.linkedin.com/in/ritansh-rajput)*
 - *Portfolio : [Check Here](https://ritansh-personal-portfolio-nextjs.netlify.app)*
-- *Live Projects   : [Check Here](https://vercel.com/ritanshrajputs-projects)*
+- *Frontend Projects   : [Check Here](https://vercel.com/ritanshrajputs-projects)*
 - *Instagram : [Check Here](https://www.instagram.com/vscode_withme/)*
 - *Leetcode  : [Check Here]( https://leetcode.com/u/RitanshRajput/)*
 
