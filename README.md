@@ -1,4 +1,3 @@
-### 🫡About Me :
 - 😉 Yo, I’m Ritansh
 - 👀 I’m interested in Software Engineering, Watching Anime, Exploring New Places and Solving DSA.
 - 🌱 I’m currently Mastering Full-Stack Development with plans to delve DevOps and AI as well.
@@ -12,6 +11,9 @@
 - *Frontend Projects   : [Check Here](https://vercel.com/ritanshrajputs-projects)*
 - *Instagram : [Check Here](https://www.instagram.com/vscode_withme/)*
 - *Leetcode  : [Check Here]( https://leetcode.com/u/RitanshRajput/)*
+
+  ![NUX_Octodex](https://github.com/user-attachments/assets/db734455-2ea4-47ad-bedc-d615d95aac7d)
+
 
 <h4 align="left">I work With :</h4>
 <div align="left">
