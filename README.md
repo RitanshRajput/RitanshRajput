@@ -1,9 +1,19 @@
-- 😉 Yo, I’m Ritansh
-- 👀 I’m interested in Software Engineering, Watching Anime, Exploring New Places and Solving DSA.
+- <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/> Yo, I’m Ritansh
+- 👀 I’m interested  Watching Anime, Reading Manhwa, Exploring New Places, Solving DSA Problems and creating lots of Projects.
 - 🌱 I’m currently Mastering Full-Stack Development with plans to delve DevOps and AI as well.
 - 💞️ I’m looking to collaborate on Any Open Source Projects as well as personal projects.
 - 📝 Check My Resume [Resume Link](https://drive.google.com/file/d/1Y38MFx5XFXi5zY-JiOvCck07X5VMWIFd/view?usp=drive_link)
-  
+- 💌*Gmail : ritanshrajput21@gmail.com*  ✅*Linkedin  : [Check Here](https://www.linkedin.com/in/ritansh-rajput)*  🐦‍🔥*Leetcode  : [Check Here]( https://leetcode.com/u/RitanshRajput/)*
+
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="650">
+</div>
+<br><br>
+
+
+
+<!--
 ### 📫 How to reach me
 - *Gmail : ritanshrajput21@gmail.com*
 - *Linkedin  : [Check Here](https://www.linkedin.com/in/ritansh-rajput)*
@@ -11,11 +21,11 @@
 - *Frontend Projects   : [Check Here](https://vercel.com/ritanshrajputs-projects)*
 - *Instagram : [Check Here](https://www.instagram.com/vscode_withme/)*
 - *Leetcode  : [Check Here]( https://leetcode.com/u/RitanshRajput/)*
-
-  ![NUX_Octodex](https://github.com/user-attachments/assets/db734455-2ea4-47ad-bedc-d615d95aac7d)
+-->
 
 
 <h4 align="left">I work With :</h4>
+<!--
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -69,9 +79,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="nextjs logo" />
 </div>
+-->
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
-<h4 align="left">Welcome Guests :</h4>
+<br></br>
+ <h4 align="left">Welcome Guests :</h4> 
+ <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" width="75">&nbsp;
 
-![Profile views counter](https://komarev.com/ghpvc/?username=RitanshRajput&&style=flat-square)  
+ ![Profile views counter](https://komarev.com/ghpvc/?username=RitanshRajput&&style=flat-square)
 ###
 
