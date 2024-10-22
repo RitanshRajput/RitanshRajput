@@ -1,5 +1,5 @@
 - <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/> Yo, I’m Ritansh
-- 👀 I Lub Watching Anime, Reading Manhwa, Exploring New Places, Solving DSA Problems and creating lots of Projects.
+- 👀 I Lub Anime and Manhwa, Exploring New Places, Solving DSA Problems and creating lots of Projects.
 - 🌱 I’m currently Mastering Full-Stack Development with plans to delve DevOps and AI as well.
 - 💞️ I’m looking to collaborate on Any Open Source Projects as well as personal projects or Just Hire Me😉.
 - 📝 Check My Resume [Resume Link](https://drive.google.com/file/d/1Y38MFx5XFXi5zY-JiOvCck07X5VMWIFd/view?usp=drive_link)
