@@ -1,5 +1,5 @@
 - <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/> Yo, I’m Ritansh
-- 👀 I Lub Anime, Exploring New Places, Solving DSA Problems and creating lots of Projects.
+- 👀 I Lub Anime, Exploring New Places, Solving DSA Problems and Software Development.
 - 🌱 I’m currently Mastering Full-Stack Development with plans to delve DevOps and AI as well.
 - 💞️ I’m looking to collaborate on Any Open Source Projects as well as personal projects or Just Hire Me😉.
 - 📝 Check My Resume [Resume Link](https://drive.google.com/file/d/1JSkVZIG2ktxenYqyNwcnj29P_SoAewrW/view?usp=sharing)
