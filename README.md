@@ -2,7 +2,7 @@
 - 👀 I Lub Anime, Exploring New Places, Solving DSA Problems and Software Development.
 - 🌱 I’m currently Mastering Full-Stack Development with plans to delve DevOps and AI as well.
 - 💞️ I’m looking to collaborate on Any Open Source Projects as well as personal projects or Just Hire Me😉.
-- 📝 Check My Resume [Resume Link](http://surl.li/qmghnv)
+- 📝 Check My Resume [Resume Link](https://surl.li/jwkxfy)
 - 💌*Gmail : ritanshrajput21@gmail.com*  ✅*Linkedin  : [Check Here](https://www.linkedin.com/in/ritansh-rajput)*  🐦‍🔥*Leetcode  : [Check Here]( https://leetcode.com/u/RitanshRajput/)*
 
 
