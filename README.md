@@ -5,13 +5,10 @@
 - 📝 Check My Resume [Resume Link](https://surl.li/jwkxfy)
 - 💌*Gmail : ritanshrajput21@gmail.com*  ✅*Linkedin  : [Check Here](https://www.linkedin.com/in/ritansh-rajput)*  🐦‍🔥*Leetcode  : [Check Here]( https://leetcode.com/u/RitanshRajput/)*
 
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="650">
 </div>
 <br><br>
-
-
 
 <!--
 ### 📫 How to reach me
